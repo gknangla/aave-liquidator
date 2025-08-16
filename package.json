@@ -18,7 +18,7 @@
     "@ethersproject/address": "^5.0.10",
     "@ethersproject/solidity": "^5.0.9",
     "@uniswap/sdk": "^3.0.3",
-    "dotenv": "^8.2.0",
+    "dotenv": "^17.0.0",
     "ethereum-input-data-decoder": "^0.4.0",
     "ethers": "^5.0.31",
     "isomorphic-fetch": "^3.0.0",
